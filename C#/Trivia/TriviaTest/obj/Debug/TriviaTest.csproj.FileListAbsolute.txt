@@ -1,0 +1,10 @@
+D:\katas\trivia\C#\Trivia\TriviaTest\bin\Debug\TriviaTest.dll
+D:\katas\trivia\C#\Trivia\TriviaTest\bin\Debug\TriviaTest.pdb
+D:\katas\trivia\C#\Trivia\TriviaTest\bin\Debug\nunit.framework.dll
+D:\katas\trivia\C#\Trivia\TriviaTest\bin\Debug\Trivia.exe
+D:\katas\trivia\C#\Trivia\TriviaTest\bin\Debug\Trivia.pdb
+D:\katas\trivia\C#\Trivia\TriviaTest\bin\Debug\nunit.framework.pdb
+D:\katas\trivia\C#\Trivia\TriviaTest\bin\Debug\nunit.framework.xml
+D:\katas\trivia\C#\Trivia\TriviaTest\obj\Debug\TriviaTest.csprojResolveAssemblyReference.cache
+D:\katas\trivia\C#\Trivia\TriviaTest\obj\Debug\TriviaTest.dll
+D:\katas\trivia\C#\Trivia\TriviaTest\obj\Debug\TriviaTest.pdb
